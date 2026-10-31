@@ -1,0 +1,21 @@
+{
+  "format": "mandala-catalog",
+  "version": 1,
+  "kind": "theme",
+  "items": [
+    {
+      "id": "paper",
+      "name": "Community Paper",
+      "description": "A neutral light theme with a muted blue accent. / 中性浅色与柔和蓝色强调。",
+      "version": "1.0.0",
+      "publisher": "MaktubCN",
+      "minAppVersion": "0.1.1",
+      "package": {
+        "repository": "MaktubCN/mandala-themes",
+        "revision": "0ed3484072fca7982459bd5f58c771d00f539582",
+        "path": "packages/paper.mandala-theme.json",
+        "sha256": "5ade5709079145dce5406499db7fb8d183e31710cb7cc43108e4a74b926276ac"
+      }
+    }
+  ]
+}
