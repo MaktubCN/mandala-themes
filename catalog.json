@@ -6,7 +6,7 @@
     {
       "id": "paper",
       "name": "Community Paper",
-      "description": "A neutral light theme with a muted blue accent. / 中性浅色与柔和蓝色强调。",
+      "description": "A neutral light theme with a muted blue accent.",
       "version": "1.0.0",
       "publisher": "MaktubCN",
       "minAppVersion": "0.1.1",
